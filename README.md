@@ -2,7 +2,7 @@
 
 Je suis un développeur web et mobile fullstack junior passionné par la création de solutions web et mobiles efficaces. 
 Avec une solide formation en développement front-end et back-end, je m'efforce de toujours apprendre et d'améliorer mes compétences. 
-Je suis actuellement à la recherche d'une alternance pour septembre-octobre.
+Je suis actuellement à la recherche d'une alternance pour septembre-octobre en t'en que Concepteur Développeur d'Application Web.
 
 ## 💻 Compétences Techniques
 - **Front-end** : HTML, CSS, JavaScript, React, Vue.js
