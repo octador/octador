@@ -21,7 +21,7 @@ fiables et pérennes.
 ## 📫 Contact
 - **Email** : [mutuon.j@gmail.com](mailto:mutuon.j@gmail.com)
 - **LinkedIn** : [linkedin.com/in/joan-mutuon](https://www.linkedin.com/in/joan-mutuon123456789/)
-- **Portfolio** : [Portfolio Joan Mutuon développeur web & mobile full stack](https://portfolio-joan-mutuon-developpeur-web.netlify.app)
+- **Portfolio** : [Portfolio Joan Mutuon développeur web & mobile full stack](https://portfoliomutuonjoan.netlify.app/)
 
 N'hésitez pas à me contacter pour toute opportunité ou pour discuter de projets intéressants !
 
